@@ -1,0 +1,49 @@
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1{
+    width: 50%;
+    background-color: #f1f1f1;
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    padding-left: 1.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-left: 5px red solid;
+    font-size: 20px;
+    float: left ;
+  
+    
+}
+
+.confirm{
+
+    width: 45%;
+    background-color: #fbfbfb;
+    margin: 0 auto;
+    padding:5px 20px 20px;
+    border-radius: 2%;
+    border: 3px #ebebeb solid;
+    float: left;
+}
+form{
+    float:left;
+    margin-right: 15px;
+}
+.button1{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.button2{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color: darkorange;
+    border-radius: 5px;
+    border-bottom: solid 2px #E08600;
+}

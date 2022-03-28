@@ -1,0 +1,47 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    width: 50%;
+    background-color: rgba(128, 128, 128, 0.13);
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-bottom: 1%;
+    padding-left: 1.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-left: 5px red solid;
+    font-size: 20px;
+    float: left ;
+    
+}
+form{
+    width: 50%;
+    background-color: rgba(128, 128, 128, 0.055);
+    margin: 0 auto;
+    border-radius: 2%;
+    border: 3px rgb(235, 235, 235) solid;
+    float: left;
+}
+
+
+div {
+    padding :15px;
+}
+
+.text,.textarea,.dropdown{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+
+.submit{
+    border:1px solid #dfdfdf;
+    padding:4px 10px;
+    color: white;
+    background-color: #dfdfdf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
